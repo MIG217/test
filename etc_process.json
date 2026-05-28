@@ -2,21 +2,21 @@
   "广东": {
     "本人办理": {
       "steps": "1.微信搜索【广东粤通卡ETC服务】小程序并登录\n2.首页下方服务-产品服务-ETC产品注销-根据页面指示填写对应资料提交\n3.发起注销后，2天左右注销成功（以粤通卡发送的注销成功短信为准）",
-      "image_url": "http://tfq2iisze.hn-bkt.clouddn.com/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png-inline",
+      "image_url": "https://github.com/MIG217/test/blob/main/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png?raw=true",
       "transfer": "微信搜索“广东粤通卡ETC服务”小程序-首页-右上角客服图标处（进入客服页面后输入“人工”转接真人解答问题）",
       "screenshot": "",
       "note": "【粤通卡客服】尊敬的客户，您好！如需办理银行联名记账卡注销业务，请您直接拨打银行信用卡客服热线，待卡片注销完成后，再通过粤通卡APP/广东粤通卡ETC服务微信小程序<服务-ETC产品注销-单标签注销>根据指引上传资料，订单提交后我司将在2个工作日内完成审核，审核成功后即完成联名卡单标注销。<备注：联名记账卡属于银行信用卡，一般需要信用卡注销45天后才会正式注销>"
     },
     "本人办理_无卡无设备": {
       "steps": "（1）下载粤通卡APP\n（2）输入自己的手机号，再点击“获取验证码”\n（3）在APP-服务-点击挂失/解挂，先发起挂失\n（4）再在APP-服务-点击ETC产品注销-按照提示上传对应资料提交注销",
-      "image_url": "http://tfq2iisze.hn-bkt.clouddn.com/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png-inline",
+      "image_url": "https://github.com/MIG217/test/blob/main/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png?raw=true",
       "transfer": "若操作遇到卡点或者疑问可以联系卡方在线客服为您解答\n微信搜索“广东粤通卡ETC服务”小程序-首页-右上角客服图标处（进入客服页面后输入“人工”转接真人解答问题）",
       "screenshot": "",
       "note": "您进入【广东粤通卡ETC服务】微信小程序<服务-ETC产品注销-单标签注销>"
     },
     "非本人办理_新车牌": {
       "steps": "1.下载粤通卡APP\n2.输入自己的手机号，再点击“获取验证码”\n3.点击解除车牌占用，然后按照页面指引进行操作，上传对应信息",
-      "image_url": "http://tfq2iisze.hn-bkt.clouddn.com/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png-inline",
+      "image_url": "https://github.com/MIG217/test/blob/main/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png?raw=true",
       "transfer": "若操作遇到卡点或者疑问可以联系卡方在线客服为您解答\n微信搜索“粤通卡ETC服务”小程序-首页-右上角客服图标处（进入客服页面后输入“人工”转接真人解答问题）",
       "screenshot": "",
       "note": ""
@@ -25,21 +25,21 @@
   "山东": {
     "本人办理": {
       "steps": "1.下载e高速app\n2.点击【我的】-【我的ETC】-【ETC卡片】-【ETC设置】-【注销ETC】\n3.根据流程操作界面会显示“审核通过”\n4.点击【下一步】-【自主注销ETC】，会提示您需连接蓝牙完成注销。",
-      "image_url": "http://tfq2iisze.hn-bkt.clouddn.com/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png-inline",
+      "image_url": "https://github.com/MIG217/test/blob/main/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png?raw=true",
       "transfer": "E高速APP首页-右上角客服头像处-（进入客服页面后输入“人工”转接真人解答问题）",
       "screenshot": "",
       "note": ""
     },
     "本人办理_无卡无设备": {
       "steps": "1.下载e高速app\n2.点击【我的】-【我的ETC】-【ETC卡片】-【ETC设置】-【注销ETC】\n3.根据流程操作界面会显示“审核通过”\n4.点击【下一步】-【自主注销ETC】，会提示您需连接蓝牙完成注销。等待15秒，会提示“未检测到您的蓝牙设备，是否继续注销”，点击【确定】即可完成“无卡无签”注销。",
-      "image_url": "",
+      "image_url": "https://github.com/MIG217/test/blob/main/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png?raw=true",
       "transfer": "若操作遇到卡点或者疑问可以联系卡方在线客服为您解答处理\nE高速APP首页-右上角客服头像处-（进入客服页面后输入“人工”转接真人解答问题）",
       "screenshot": "",
       "note": ""
     },
     "非本人办理_新车牌": {
       "steps": "1.下载e高速APP并登录\n2.点击【首页-更多业务-解除车牌占用】，按照页面指引填写信息解除车牌占用",
-      "image_url": "",
+      "image_url": "https://github.com/MIG217/test/blob/main/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png?raw=true",
       "transfer": "若操作遇到卡点或者疑问可以联系卡方在线客服为您解答处理\nE高速APP首页-右上角客服头像处-（进入客服页面后输入“人工”转接真人解答问题）",
       "screenshot": "",
       "note": ""
@@ -48,7 +48,7 @@
   "北京": {
     "本人办理": {
       "steps": "1.微信搜索【乐速通ETC】小程序\n2.进入小程序点击【服务】\n3.点击【速通卡注销】选项，然后点击【立即办理】\n4.按照提示和流程办理注销手续",
-      "image_url": "",
+      "image_url": "https://github.com/MIG217/test/blob/main/WeChatWorkScreenshot_488a8de4-7728-478f-b3cc-4e74a1e18f94.png?raw=true",
       "transfer": "微信搜索“乐速通ETC”小程序-首页-我的-在线客服处（进入客服页面后输入“人工”转接真人解答问题）",
       "screenshot": "",
       "note": ""
